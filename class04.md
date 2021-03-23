@@ -17,12 +17,12 @@ The space between two adjacent row and two adjacent column grid lines. It’s a 
 # Regex
 * Regular expressions (regex or regexp) are extremely useful in extracting information from any text by searching for one or more matches of a specific search pattern (i.e. a specific sequence of ASCII or unicode characters).
 * Basic topics
-## Anchors — ^ and $
+### Anchors — ^ and $
 * ^The        matches any string that starts with The -> Try it!
 * end$        matches a string that ends with end
 * ^The end$   exact string match (starts and ends with The end)
 * roar        matches any string that has the text roar in it
-# Quantifiers — * + ? and {}
+### Quantifiers — * + ? and {}
 * abc*        matches a string that has ab followed by zero or more c -> Try it!
 * abc+        matches a string that has ab followed by one or more c
 * abc?        matches a string that has ab followed by zero or one c
