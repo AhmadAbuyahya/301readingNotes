@@ -16,6 +16,5 @@ Here you will find the reading notes from all the 301 course classes.
 * [Class 11](https://ahmadabuyahya.github.io/301readingNotes/class11)
 * [Class 12](https://ahmadabuyahya.github.io/301readingNotes/class12)
 * [Class 13](https://ahmadabuyahya.github.io/301readingNotes/class13)
-* [Class 14](https://ahmadabuyahya.github.io/301readingNotes/class14a)
-* [Class 14](https://ahmadabuyahya.github.io/301readingNotes/class14b)
+* [Class 14](https://ahmadabuyahya.github.io/301readingNotes/class14)
 * [Class 15](https://ahmadabuyahya.github.io/301readingNotes/class15)
